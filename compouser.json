@@ -1,0 +1,13 @@
+{
+    "name":"jmaykon/VIDECI_php",
+    "autoload":{
+        "files":[
+            "src/tools.php"
+        ]
+    },
+    "authors":[
+        {
+        "name":"maykon"
+        }
+    ]
+}
